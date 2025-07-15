@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ronda/static/css/main.5ab5f38c.css",
+    "main.js": "/Ronda/static/js/main.cac17a40.js",
+    "index.html": "/Ronda/index.html",
+    "main.5ab5f38c.css.map": "/Ronda/static/css/main.5ab5f38c.css.map",
+    "main.cac17a40.js.map": "/Ronda/static/js/main.cac17a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab5f38c.css",
+    "static/js/main.cac17a40.js"
+  ]
+}
